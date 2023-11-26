@@ -1,1 +1,1 @@
-inport 
+inport curses()
