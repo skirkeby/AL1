@@ -1,1 +1,2 @@
-inport curses()
+import curses
+
